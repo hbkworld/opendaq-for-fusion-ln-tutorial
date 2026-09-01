@@ -1,0 +1,6 @@
+opendaq>=3.40
+pint
+matplotlib
+numpy
+scipy
+pyuff
